@@ -1,4 +1,4 @@
-# The Nature of Code, Spring 2025
+# The Nature of Code, Spring 2026
 
 ## Schedule
 
