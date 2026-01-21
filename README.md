@@ -2,35 +2,35 @@
 
 ## Schedule
 
-### 1: Jan 23 - [Introduction](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module00-intro)
+### 1: Jan 21 - [Introduction](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module00-intro)
 
-### 2: Jan 30 - [Vectors](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module01-vectors)
+### 2: Jan 28 - [Vectors](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module01-vectors)
 
-### 3: Feb 6 - [Forces](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module02-forces)
+### 3: Feb 4 - [Forces](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module02-forces)
 
-### 4: Feb 13 - [Oscillating Motion](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module03-osc)
+### 4: Feb 11 - [Oscillating Motion](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module03-osc)
 
-### 5: Feb 20 - [Particle Systems](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module04-systems)
+### 5: Feb 18 - [Particle Systems](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module04-systems)
 
-### 6: Feb 27 - [Autonomous Agents](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module05-agents)
+### 6: Feb 25 - [Autonomous Agents](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module05-agents)
 
-### 7: Mar 6 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-libraries)
+### 7: Mar 4 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-libraries)
 
-### 8: Mar 13 - [Simulation Project](projects/simulation)
+### 8: Mar 11 - [Simulation Project](projects/simulation)
 
-### 9: Mar 20 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
+### 9: Mar 18 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
 
 ### SPRING BREAK
 
-### 10: Apr 3 - [Genetic Algorithms](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module08-ga)
+### 10: Apr 1 - [Genetic Algorithms](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module08-ga)
 
-### 11: Apr 10 - [Neural Networks](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 8 - [Neural Networks](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
-### 11: Apr 17 - [Neuroevolution](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 15 - [Neuroevolution](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
-### 13: Apr 24 - [Final Project Workshop](projects/final)
+### 13: Apr 22 - [Final Project Workshop](projects/final)
 
-### 14: May 1 - [Final Project Presentations](projects/final)
+### 14: Apr 29 - [Final Project Presentations](projects/final)
 
 ## Course Description
 
