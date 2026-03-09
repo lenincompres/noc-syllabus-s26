@@ -18,9 +18,9 @@
 
 ### 8: Mar 11 - [Simulation Project](projects/simulation)
 
-### 9: Mar 18 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
-
 ### SPRING BREAK
+
+### 9: Mar 25 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
 
 ### 10: Apr 1 - [Genetic Algorithms](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module08-ga)
 
