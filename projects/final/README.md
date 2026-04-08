@@ -11,7 +11,7 @@ Other notes:
 3. Final project can also be a collection or series of small sketches or experiments, rather than one larger completed project.
 4. If you prefer to focus your time on a final project that is more research or project proposal oriented, this is perfectly acceptable!
 
-## Final Project Proposals (April 10 / 17)
+## Final Project Proposals (April 15)
 
 Put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
@@ -33,7 +33,7 @@ Put together a final project proposal. It's up to you to best present your idea,
 3. Suggestions for relevant tutorials, reference projects, or other resources?
 4. Are there ways this project can be user tested? What questions would you want to ask?
 
-## Final Project Play Testing (April 24)
+## Final Project Play Testing (April 29)
 
 The testing will follow a speed "round robin" format. The class will be divided into two groups and we'll do two rounds. For each round half the students will set up on a laptop in the class room and the other half will "view" or "interact with" or "listen to" your project for ~5-7 minutes. We'll rotate so that all "testers" will try each project and provide feedback.
 
