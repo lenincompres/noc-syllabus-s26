@@ -33,7 +33,7 @@ Put together a final project proposal. It's up to you to best present your idea,
 3. Suggestions for relevant tutorials, reference projects, or other resources?
 4. Are there ways this project can be user tested? What questions would you want to ask?
 
-## Final Project Play Testing (April 29)
+## Final Project Play Testing (April 24)
 
 The testing will follow a speed "round robin" format. The class will be divided into two groups and we'll do two rounds. For each round half the students will set up on a laptop in the class room and the other half will "view" or "interact with" or "listen to" your project for ~5-7 minutes. We'll rotate so that all "testers" will try each project and provide feedback.
 
@@ -41,7 +41,7 @@ It's up to you to design your "testing". It can mean something different for dif
 
 If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki).
 
-## Final Project Presentations (May 1)
+## Final Project Presentations (April 29)
 
 To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki). The presentations are May 1, however you take additional time to complete documentation (May 9), please be in touch if you anticipate any issues meeting the deadline.
 
